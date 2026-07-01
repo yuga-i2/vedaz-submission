@@ -1,4 +1,4 @@
-# Vedaz AI Engineer Take-Home — Yugas
+# Vedaz AI Engineer Take-Home — Yuga K S
 
 This repo contains my submission for both stages of the Vedaz AI Astrologers take-home task.
 
