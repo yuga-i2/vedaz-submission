@@ -3,6 +3,11 @@
 This repo contains my submission for both stages of the Vedaz AI Astrologers take-home task.
 
 ---
+## Demo
+
+[![Vedaz Stage 2 Demo](https://img.youtube.com/vi/VicK5oBZwTY/maxresdefault.jpg)](https://youtu.be/VicK5oBZwTY?si=v3ARVa_DljNWNn1j)
+
+> Click the image above to watch the checker, generator, and tester scripts running live.
 
 ## Stage 1 — Quick Screen
 
